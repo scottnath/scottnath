@@ -1,11 +1,12 @@
-### Hi there 👋
+### Howdy, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Scott Nath
+
+- 🔭 I’m currently working on [StoryDocker](https://github.com/storydocker)
 
 <!--
 **scottnath/scottnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
