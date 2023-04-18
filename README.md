@@ -5,7 +5,7 @@
 
 ## Let's connect!
 [![Linkedin Badge](https://img.shields.io/badge/-scottnath-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/scottnath/)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109492813814424051?domain=https%3A%2F%2Fmastodon.social&style=social)
+[![Mastodon Follow](https://img.shields.io/badge/-scottnath-blue?style=flat-square&logo=Mastodon&logoColor=white)](https://mastodon.social/@scottnath)
 [![Twitter Badge](https://img.shields.io/badge/-scottnath-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/scottnath) 
 <br />
 
