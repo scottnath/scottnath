@@ -1,4 +1,4 @@
-### Howdy, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Scott Nath
+### Scott Nath on the GitHub
 
 - 🗣️ Brain-dumping explainers on shared-tests and devOps at [dev.to/scottnath](https://dev.to/scottnath)
 - 🧪 I’m currently experimenting with Storybook and docker via [StoryDocker](https://github.com/storydocker)
