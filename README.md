@@ -1,6 +1,7 @@
 ### Scott Nath on the GitHub
 
-- 🗣️ Brain-dumping explainers on shared-tests and devOps at [dev.to/scottnath](https://dev.to/scottnath)
+- ✨ New open source components: [profile-components](https://github.com/scottnath/profile-components)
+- 🗣️ Brain-dumping explainers on web components, shared-tests, and devOps at [dev.to/scottnath](https://dev.to/scottnath)
 - 🧪 I’m currently experimenting with Storybook and docker via [StoryDocker](https://github.com/storydocker)
 - 🏠 [scottnath.com](https://scottnath.com)
 
