@@ -6,6 +6,7 @@
 - 🏠 [scottnath.com](https://scottnath.com)
 
 
+
 ## Let's connect!
 [![Linkedin Badge](https://img.shields.io/badge/-scottnath-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/scottnath/)
 [![Mastodon Follow](https://img.shields.io/badge/-scottnath-blue?style=flat-square&logo=Mastodon&logoColor=white)](https://mastodon.social/@scottnath)
@@ -30,5 +31,10 @@ Here are some ideas to get you started:
 
 ---
 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=astro,bash,devto,docker,git,github,githubactions,gherkin,graphql,html,js,jest,linkedin,lit,md,mastodon,nodejs,npm,php,py,sass,ts,vscode,vue,wordpress" />
+  </a>
+</p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=scottnath">
