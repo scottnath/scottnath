@@ -1,8 +1,7 @@
 ### Scott Nath on the GitHub
 
-- ✨ New open source components: [profile-components](https://github.com/scottnath/profile-components)
+- ✨ Dependency-free web components: [profile-components](https://github.com/scottnath/profile-components)
 - 🗣️ Brain-dumping explainers on web components, shared-tests, and devOps at [dev.to/scottnath](https://dev.to/scottnath)
-- 🧪 I’m currently experimenting with Storybook and docker via [StoryDocker](https://github.com/storydocker)
 - 🏠 [scottnath.com](https://scottnath.com)
 
 
@@ -13,21 +12,17 @@
 [![Twitter Badge](https://img.shields.io/badge/-scottnath-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/scottnath) 
 <br />
 
-<!--
-**scottnath/scottnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-@todo - https://github.com/anuraghazra/github-readme-stats
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=scottnath&show_icons=true&show=prs_merged,prs_merged_percentage&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=scottnath&show_icons=true&show=prs_merged,prs_merged_percentage"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>-->
 
 ---
 
