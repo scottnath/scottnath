@@ -12,19 +12,6 @@
 
 ---
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=scottnath&show_icons=true&show=prs_merged,prs_merged_percentage&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=scottnath&show_icons=true&show=prs_merged,prs_merged_percentage"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=scottnath&show_icons=true" />
-</picture>
-
----
 
 <a href="https://scottnath.com" aria-label="Go to scottnath.com"><img src="./github-metrics.svg" alt="PageSpeed insights for scottnath.com" /></a>
 
