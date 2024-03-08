@@ -14,30 +14,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+          # Current configuration doesn't require a GitHub token
+          token: NOT_NEEDED
 
           # Options
           user: scottnath
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: America/New_York
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: https://scottnath.com
-          plugin_posts: yes
-          plugin_posts_covers: yes
-          plugin_posts_descriptions: yes
-          plugin_posts_limit: 4
-          plugin_posts_source: dev.to
-          plugin_posts_user: scottnath
-          repositories_forks: yes
