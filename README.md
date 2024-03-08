@@ -1,3 +1,5 @@
+<img align="right" src="./github-metrics.svg" />
+
 ### Scott Nath on the GitHub
 
 - ✨ Dependency-free web components: [profile-components](https://github.com/scottnath/profile-components)
