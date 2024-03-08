@@ -10,11 +10,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scottnath/)
 
-
-
 ---
 
-<a href="https://scottnath.com" aria-label="Go to scottnath.com"><img align="left" src="./github-metrics.svg" alt="PageSpeed insights for scottnath.com" /></a>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=scottnath&show_icons=true&show=prs_merged,prs_merged_percentage&theme=dark"
@@ -24,11 +21,14 @@
     srcset="https://github-readme-stats.vercel.app/api?username=scottnath&show_icons=true&show=prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=scottnath&show_icons=true" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=scottnath&show_icons=true" />
 </picture>
 
+---
 
-<hr width="100% />
+<a href="https://scottnath.com" aria-label="Go to scottnath.com"><img src="./github-metrics.svg" alt="PageSpeed insights for scottnath.com" /></a>
+
+---
 
 <p>
   <a href="https://skillicons.dev">
