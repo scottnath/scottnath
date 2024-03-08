@@ -4,12 +4,12 @@
 - 🗣️ Brain-dumping explainers on web components, shared-tests, and devOps at [dev.to/scottnath](https://dev.to/scottnath)
 - 🏠 [scottnath.com](https://scottnath.com)
 
-
-
 ## Let's connect!
-[![Linkedin Badge](https://img.shields.io/badge/-scottnath-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/scottnath/)
-[![Mastodon Follow](https://img.shields.io/badge/-scottnath-blue?style=flat-square&logo=Mastodon&logoColor=white)](https://mastodon.social/@scottnath)
-[![Twitter Badge](https://img.shields.io/badge/-scottnath-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/scottnath) 
+<!--https://shields.io/badges/mastodon-follow-->
+![Follow me on the fediverse!](https://img.shields.io/mastodon/follow/109492813814424051)
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scottnath/)
+[![Read my articles on dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)]([https://mastodon.social/@scottnath](https://dev.to/scottnath))
 <br />
 
 <!--<picture>
