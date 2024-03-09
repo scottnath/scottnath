@@ -26,7 +26,7 @@
 
 ---
 
-<a href="https://scottnath.com" aria-label="Go to scottnath.com"><img src="./github-metrics.svg" alt="PageSpeed insights for scottnath.com" /></a>
+<a href="https://scottnath.com" aria-label="Go to scottnath.com"><img src="./github-metrics.svg" loading="lazy" alt="PageSpeed insights for scottnath.com" /></a>
 
 ---
 
