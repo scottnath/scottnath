@@ -12,6 +12,10 @@
 
 ---
 
+<a href="https://scottnath.com" aria-label="Go to scottnath.com"><img src="./github-metrics.svg" loading="lazy" alt="PageSpeed insights for scottnath.com" /></a>
+
+---
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=scottnath&show_icons=true&show=prs_merged,prs_merged_percentage&theme=dark"
@@ -23,10 +27,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=scottnath&show_icons=true" />
 </picture>
-
----
-
-<a href="https://scottnath.com" aria-label="Go to scottnath.com"><img src="./github-metrics.svg" loading="lazy" alt="PageSpeed insights for scottnath.com" /></a>
 
 ---
 
