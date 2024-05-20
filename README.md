@@ -1,7 +1,7 @@
 ### Scott Nath on the GitHub
 
 - :boom: resume web component combining JSON Resume,microtades-based structured data, slots, and full stylesheet replacement: [`<json-reumee>`](https://GitHub.com/scottnath/jsonresume-component)
-- ✨ Dependency-free web components: [p rofile-components](https://github.com/scottnath/profile-components)
+- ✨ Dependency-free web components: [profile-components](https://github.com/scottnath/profile-components)
 - 🗣️ Articles on web components, shared-tests, and DevX on DEV [dev.to/scottnath](https://dev.to/scottnath)
 - 🏠 Me<sup>2</sup> at [scottnath.com](https://scottnath.com)
 
